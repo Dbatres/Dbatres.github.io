@@ -4,7 +4,7 @@ This is my home page! My name is Diego Batres and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://githubDbatres.github.io.com/Dbatres
+My GitHub page is http://github.com/Dbatres.github.io.com/Dbatres
 
 ### CPSC 120
 
